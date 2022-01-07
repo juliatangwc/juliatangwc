@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Julia 
+
+- 😄 Pronouns: she/her
+- 🌱 I’m a budding software engineer at Hackbright Academy, graduating in April 2022 :mortar_board:
+- :star: I’m currently working on a project that includes a nutrition screener :yum: and learning tasks :school_satchel:
+
+
+
 
 <!--
 **juliatangwc/juliatangwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
