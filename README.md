@@ -3,6 +3,10 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m a budding software engineer at Hackbright Academy, graduating in April 2022 :mortar_board:
 - :star: I’m currently working on a project that includes a nutrition screener :yum: and learning tasks :school_satchel:
+- :computer: Skills: Python | JavaScript | AJAX | JSON | React | HTML | CSS | SQL 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliatangwc&layout=compact)](https://github.com/juliatangwc/github-readme-stats)
 
 
 
