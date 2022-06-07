@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Julia 
 
 - 😄 Pronouns: she/her
-- 🌱 I’m a budding software engineer at Hackbright Academy, graduating in April 2022 :mortar_board:
+- 🌱 I’m a budding software engineer at Hackbright Academy, graduated in April 2022 :mortar_board:
 - :star: I’m currently working on a project that includes a nutrition screener :yum: and learning tasks :school_satchel:
 - :computer: Skills: Python | JavaScript | AJAX | JSON | React | HTML | CSS | SQL 
 
